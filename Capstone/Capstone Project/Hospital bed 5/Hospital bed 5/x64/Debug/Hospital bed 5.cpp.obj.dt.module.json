@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Hospital bed 5\\x64\\Debug\\Hospital bed 5.obj",
+            "outputs": [
+                "Hospital bed 5\\x64\\Debug\\Hospital bed 5.cpp.obj.dt.module.json",
+                "Hospital bed 5\\x64\\Debug\\Hospital bed 5.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

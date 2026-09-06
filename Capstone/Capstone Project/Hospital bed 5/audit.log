@@ -1,0 +1,14 @@
+2026-09-01 13:15:25 | Registered patient 1001 | condition=CRITICAL | priority=CRITICAL
+2026-09-01 13:15:25 | Allocated bed ICU-1 to patient 1001
+2026-09-01 13:15:35 | Discharged patient 1001 | released bed ICU-1
+2026-09-01 13:15:54 | Bed ER-1 changed to Reserved
+2026-09-01 13:16:00 | Bed ER-1 changed to Maintenance
+2026-09-01 13:16:08 | Bed ER-1 changed to Available
+2026-09-01 13:40:17 | Bed ICU-2 changed to Reserved
+2026-09-01 13:40:26 | Bed ICU-2 changed to Maintenance
+2026-09-01 13:46:29 | Bed ICU-2 changed to Available
+2026-09-03 08:30:39 | Bed ICU-3 changed to Maintenance
+2026-09-03 08:30:44 | Bed ICU-3 changed to Available
+2026-09-03 08:30:44 | Bed ICU-3 changed to Available
+2026-09-03 08:45:54 | Registered patient 1002 | condition=CRITICAL | priority=CRITICAL
+2026-09-03 08:45:54 | Allocated bed ICU-1 to patient 1002

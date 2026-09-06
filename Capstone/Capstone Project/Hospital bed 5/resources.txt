@@ -1,0 +1,5 @@
+1|Ventilator|Critical Care|8|8
+2|Cardiac Monitor|Monitoring|15|15
+3|Infusion Pump|Treatment|20|20
+4|Oxygen Cylinder|Emergency|25|25
+5|Wheelchair|Mobility|12|12
